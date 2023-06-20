@@ -1,10 +1,9 @@
 ## Olá! Sou estudante de Análise e Desenvolvimento de Sistemas. 🧑‍💻
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrinn333/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-oliveira-0b0906193/)
 
-![Du GitHub stats](https://github-readme-stats.vercel.app/api?username=luizeduardofr&show_icons=true&theme=dracula)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroOliveira2003&show_icons=true&theme=dracula)
 
 ### Tecnologias que estou praticando na Faculdade:
 
