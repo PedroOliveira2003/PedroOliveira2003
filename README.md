@@ -16,6 +16,6 @@
     <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
     <img align="center" alt="mongdb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
-[Snake animation](https://github.com/lmbbetetto/PedroOliveira2003/blob/output/github-contribution-grid-snake.svg)
+
 
 Apaixonado por Tecnologia, novos aprendizados e desafios.
