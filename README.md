@@ -1,4 +1,4 @@
-## Olá! Sou estudante de Análise e Desenvolvimento de Sistemas. 🧑‍💻
+## Hi! I'am Software Developer 🧑‍💻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrinn333/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-oliveira-0b0906193/)
