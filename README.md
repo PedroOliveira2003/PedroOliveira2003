@@ -6,6 +6,9 @@
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroOliveira2003&show_icons=true&theme=dracula)
 
 ### Tecnologias que estou praticando na Faculdade:
+<div align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOliveira2003&layout=compact&langs_count=7&theme=nightowl" />
+</div>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -16,11 +19,6 @@
     <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
     <img align="center" alt="mongdb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
-
-<div align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroOliveira2003&show_icons=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOliveira2003&layout=compact&langs_count=7&theme=nightowl" />
-</div>
 
 
 
