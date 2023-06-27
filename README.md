@@ -16,6 +16,12 @@
     <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
     <img align="center" alt="mongdb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
+<div style="display: flex; gap:5px;" align="center">
+    <img height="30" width="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
+    <img height="30" width="35" src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4">
+    <img height="30" width="35" src="https://avatars.githubusercontent.com/u/51960834?s=280&v=4">
+    <img height="30" width="35" src="https://avatars.githubusercontent.com/u/59030169?s=280&v=4">
+</div>
 
 
 Apaixonado por Tecnologia, novos aprendizados e desafios.
