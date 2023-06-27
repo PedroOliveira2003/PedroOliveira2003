@@ -4,9 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-oliveira-0b0906193/)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroOliveira2003&show_icons=true&theme=dracula)
-<div align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOliveira2003&layout=compact&langs_count=7&theme=nightowl" />
-</div>
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOliveira2003&layout=compact&langs_count=7&theme=nightowl)
+
 
 ### Tecnologias que estou praticando na Faculdade:
 
