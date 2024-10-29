@@ -3,8 +3,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrinn333/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-oliveira-0b0906193/)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroOliveira2003&show_icons=true&theme=dracula)
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOliveira2003&layout=compact&langs_count=7&theme=nightowl)
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroOliveira2003&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOliveira2003&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
 
 
 ### Tecnologias que estou praticando na Faculdade:
